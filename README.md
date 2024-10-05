@@ -1,3 +1,4 @@
+# Web Development Projects
 ## Goals
 - Understand HTML, CSS, and JavaScript
 - Build simple web applications
