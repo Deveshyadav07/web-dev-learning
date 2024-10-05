@@ -1,4 +1,4 @@
-# Web Development Projects
+# Web Development Learning Journey
 ## Goals
 - Understand HTML, CSS, and JavaScript
 - Build simple web applications
